@@ -50,9 +50,8 @@ address:
   - line: Pekanbaru
 
 # Credits content
-credits: 'Sistem Informasi <a href="http://sif.uin-suska.ac.id" </a>'
-'Universitas Islam Negeri Sultan Syarif Kasim Riau <a href="http://uin-suska.ac.id" </a>' 
-'Ayo order Bunga pesanan anda di <a href="http://instagram.com/moveonflorist">Moveonflorist</a>.'
+credits: 'Universitas Islam Negeri Sultan Syarif Kasim Riau <a href="http://uin-suska.ac.id" </a>' 
+
 
 # Build settings
 markdown: kramdown
